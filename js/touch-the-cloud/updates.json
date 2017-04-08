@@ -1,5 +1,13 @@
 lobSlider = [
     {
+        "Title": "Touch The Cloud Dev Ops"
+        , "Excerpt": "Engage and inspire customers with innovative cloud workshops"
+        , "Date": ""
+        , "Image": "cloud-touch.png"
+        , "Link": "#popup-slider4"
+        , "BtnText": "Run One Today"
+        , "Tags": "Touch the Cloud"
+    },{
         "Title": "Touch The Cloud"
         , "Excerpt": "Engage and inspire customers with innovative cloud workshops"
         , "Date": ""
