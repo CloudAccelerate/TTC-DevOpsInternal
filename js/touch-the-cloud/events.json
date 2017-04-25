@@ -1,10 +1,5 @@
 events = [
     {
-        "Title": "<a href='https://developer.oracle.com/code' target='blank'>Oracle Code - Toronto</a>"
-        , "Date": "April 18, 2017"
-        , "Excerpt": " "
-    }
-    , {
         "Title": "<a href='https://developer.oracle.com/code' target='blank'>Oracle Code - Atlanta</a>"
         , "Date": "June 22, 2017"
         , "Excerpt": " "

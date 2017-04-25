@@ -4,4 +4,23 @@ trailblazers = [
         , "Position": "Senior Cloud Platform Specialst"
         , "Image": "cam-crockett.png"
     , }
+    , {
+        "Name": "<a href='https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:510248556496520' target='blank'>Ed Shnekendorf</a>"
+        , "Position": "Principle Cloud Platform Specialst"
+        , "Image": "ed-shnekendorf.png"
+    , }
+    , {
+        "Name": "<a href='' target='blank'>Brian Leonard</a>"
+        , "Position": "Principle Cloud Platform Specialst"
+        , "Image": "brian-leonard.png"
+    , }
+    , {
+        "Name": "<a href='https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:270372985091805' target='blank'>Sandeep Kherde</a>"
+        , "Position": "Principle Cloud Platform Specialst"
+        , "Image": "sandeep-kherde.png"
+    , }, {
+        "Name": "<a href='https://people.us.oracle.com/pls/oracle/f?p=8000:2:::NO::PERSON_ID:546681746277753' target='blank'>Geries AbouAyash</a>"
+        , "Position": "Sales Consulting Senior Director"
+        , "Image": "geries-abouayash.png"
+    , }
 ]

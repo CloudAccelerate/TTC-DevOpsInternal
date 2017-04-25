@@ -3,7 +3,13 @@ teamData = {
     , "updated": ""
     , "msgTitle": ""
     , "message": ""
-    , "lobOwner": ""
+    , "lobOwner": {
+        "Name": "Geries AbouAyash"
+        , "Email": "geries.abouayash@oracle.com"
+        , "Image": "geries-abouayash-large.png"
+        , "Role": "Sales Consulting Sr Director"
+        , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:114976027929201::NO::PERSON_ID:546681746277753"
+    }
     , "DivisionalChampions": ""
     , "RegionalChampions": ""
     , "TopInfluencers": [
@@ -16,6 +22,30 @@ teamData = {
             , "Region": "Canada"
             , "Country": "Canada"
             , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:::NO::PERSON_ID:727330412500074"
+    }, {
+            "Name": "Ed Shnekendorf"
+            , "Email": "ed.shnekendorf@oracle.com"
+            , "Image": "ed-shnekendorf.png"
+            , "Role": "Principle Cloud Platform Specialist"
+            , "Region": "US"
+            , "Country": "US"
+            , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:510248556496520"
+    }, {
+            "Name": "Brian Leonard"
+            , "Email": "william.leonard@oracle.com"
+            , "Image": "brian-leonard.png"
+            , "Role": "Principle Cloud Platform Specialist"
+            , "Region": "US"
+            , "Country": "US"
+            , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:225303116718731"
+    }, {
+            "Name": "Sandeep Kherde"
+            , "Email": "sandeep.kherde@oracle.com"
+            , "Image": "sandeep-kherde.png"
+            , "Role": "Principle Cloud Platform Specialist"
+            , "Region": "US"
+            , "Country": "US"
+            , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:270372985091805"
     }
 ]
 }
