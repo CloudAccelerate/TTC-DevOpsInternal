@@ -10,8 +10,20 @@ teamData = {
         , "Role": "Sales Consulting Sr Director"
         , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:114976027929201::NO::PERSON_ID:546681746277753"
     }
-    , "DivisionalChampions": ""
-    , "RegionalChampions": ""
+    , "DivisionalChampions": {
+        "Name": "Geries AbouAyash"
+        , "Email": "geries.abouayash@oracle.com"
+        , "Image": "geries-abouayash-large.png"
+        , "Role": "Sales Consulting Sr Director"
+        , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:114976027929201::NO::PERSON_ID:546681746277753"
+    }
+    , "RegionalChampions": {
+        "Name": "Geries AbouAyash"
+        , "Email": "geries.abouayash@oracle.com"
+        , "Image": "geries-abouayash-large.png"
+        , "Role": "Sales Consulting Sr Director"
+        , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:114976027929201::NO::PERSON_ID:546681746277753"
+    }
     , "TopInfluencers": [
 
         {
@@ -46,6 +58,12 @@ teamData = {
             , "Region": "US"
             , "Country": "US"
             , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:::::PERSON_ID:270372985091805"
+    },{
+        "Name": "Geries AbouAyash"
+        , "Email": "geries.abouayash@oracle.com"
+        , "Image": "geries-abouayash-large.png"
+        , "Role": "Sales Consulting Sr Director"
+        , "AriaProfile": "https://people.us.oracle.com/pls/oracle/f?p=8000:2:114976027929201::NO::PERSON_ID:546681746277753"
     }
 ]
 }
